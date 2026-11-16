@@ -4,7 +4,7 @@
 
 ![Role](https://img.shields.io/badge/SOFTWARE_ENGINEERING_STUDENT_%7C_FUTURE_SOFTWARE_ENGINEER-181717?style=for-the-badge)
 
-Hey there! 👋 I'm **Adem Ferjaoui**, a Software Engineering student soon to graduate and become a full-time Software Engineer. I enjoy building solid backend systems, tackling algorithmic challenges, and exploring new domains in tech.
+Hey there! 👋 I'm **Adem Ferjaoui**, a Software Engineering student. I enjoy building solid backend systems, tackling algorithmic challenges, and exploring new domains in tech.
 
 Currently diving into **DevOps**, **Database Management**, and **Game Development**, and when I'm not building projects, you'll find me competing in hackathons or solving algorithmic puzzles 🧩.
 
@@ -16,7 +16,7 @@ Currently diving into **DevOps**, **Database Management**, and **Game Developmen
 
 | 🚀 What I Do | 🎯 Quick Facts |
 | :--- | :--- |
-| <ul><li><strong>Software Engineering</strong><ul><li>Building applications with Python, Rust, C++, and Java</li><li>Focusing on performance, systems logic, and clean architecture</li></ul></li><li><strong>Competitive Programming &amp; Hackathons</strong><ul><li>Sharpening problem-solving and algorithmic thinking through competitive programming</li><li>Rapidly prototyping and shipping solutions in hackathons</li></ul></li><li><strong>Continuous Exploration &amp; Tooling</strong><ul><li>Diving into new technical domains and picking up unfamiliar stacks fast</li><li>Managing data with PostgreSQL and workflows with Git &amp; Docker</li></ul></li></ul> | <ul><li>🎓 <strong>Status:</strong> Final-year Software Engineering student, soon to become a Software Engineer</li><li>📍 Based in <strong>Your City, Country</strong></li><li>🌐 Languages: <strong>Arabic, French, English</strong></li><li>⚡ <strong>Currently Interested In:</strong><ul><li>DevOps &amp; Linux</li><li>Database Management</li><li>Game Development</li></ul></li></ul> |
+| <ul><li><strong>Software Engineering</strong><ul><li>Building applications with Python, Rust, C++, and Java</li><li>Focusing on performance, systems logic, and clean architecture</li></ul></li><li><strong>Competitive Programming &amp; Hackathons</strong><ul><li>Sharpening problem-solving and algorithmic thinking through competitive programming</li><li>Rapidly prototyping and shipping solutions in hackathons</li></ul></li><li><strong>Continuous Exploration &amp; Tooling</strong><ul><li>Diving into new technical domains and picking up unfamiliar stacks fast</li><li>Managing data with PostgreSQL and workflows with Git &amp; Docker</li></ul></li></ul> | <ul><li>🎓 <strong>Status:</strong> Final-year Software Engineering student, soon to become a Software Engineer</li><li>📍 Based in <strong>L'Ariana, Tunisie</strong></li><li>🌐 Languages: <strong>Arabic, French, English</strong></li><li>⚡ <strong>Currently Interested In:</strong><ul><li>DevOps &amp; Linux</li><li>Database Management</li><li>Game Development</li></ul></li></ul> |
 
 ---
 
