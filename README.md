@@ -50,7 +50,7 @@ Currently diving into **DevOps**, **Database Management**, and **Game Developmen
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ADEM_FERJAOUI-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/adem-ferjaoui)
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR__USERNAME-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ademferjaoui)
-[![Email](https://img.shields.io/badge/Email-YOUR__EMAIL@EXAMPLE.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferjaouiadem@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ademferjaoui-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ademferjaoui)
+[![Email](https://img.shields.io/badge/Email-ferjaouiadem@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferjaouiadem@gmail.com)
 
 </div>
